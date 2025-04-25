@@ -1,0 +1,36 @@
+3238456190 Anna
+anna@example.com
+456 Oak St
+1122334455 Ava Lee
+ava.l@example.com
+123 Cedar Dr
+5552345678 Benjamin Smith
+benjamin.s@example.com
+876 Oak St
+5551234567 David Johnson
+david.j@example.com
+789 Pine Ln
+9876543210 Emma Thompson
+emma.t@example.com
+123 Maple Ave
+8887654321 Ethan Anderson
+ethan.a@example.com
+567 Maple Blvd
+5558765432 James Miller
+james.m@example.com
+567 Cedar Rd
+5556789012 Matthew White
+matthew.w@example.com
+654 Birch Dr
+3210987654 Mia Taylor
+mia.t@example.com
+789 Cedar Rd
+8765432109 Olivia Wilson
+olivia.w@example.com
+432 Pine St
+2345678901 Tophia Davis
+sophia.d@example.com
+321 Elm Blvd
+6541239871 Zain
+zain@example.com
+aple street
