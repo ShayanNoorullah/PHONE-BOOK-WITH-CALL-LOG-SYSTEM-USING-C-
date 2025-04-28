@@ -2,6 +2,8 @@
 
 A comprehensive C++ application that manages contacts and call logs with an interactive command-line interface. This system allows users to maintain their phone contacts and track call history efficiently.
 
+![image](https://github.com/user-attachments/assets/d847c832-2089-4b7e-8655-59f909e5fdce)
+
 ## Features
 
 ### Phone Book Management
